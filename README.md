@@ -15,7 +15,7 @@ This project analyzes the **checkout funnel** of an e-commerce platform to ident
 
 **Insights:**  
 - Average checkout success rate: ~11%, abandonment: ~78%  
-- Mobile users had slightly higher failure rates  
+- Desktop users had higher failure rates
 - 29 distinct error messages, some device-specific (e.g., "Session Expired" on mobile)  
 - February–March 2023 had missing successful checkouts, inflating abandonment
 
